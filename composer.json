@@ -3,7 +3,7 @@
   "type": "mediawiki-extension",
   "description": "MediaWiki comments extension.",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://gitlab.com/marketplace-mediawiki",
+  "homepage": "https://github.com/marketplace-mediawiki",
   "keywords": [
     "mediawiki",
     "comments"
@@ -28,8 +28,8 @@
     }
   ],
   "support": {
-    "issues": "https://gitlab.com/marketplace-mediawiki/mediawiki-ext-comments/issues",
-    "source": "https://gitlab.com/marketplace-mediawiki/mediawiki-ext-comments"
+    "issues": "https://github.com/marketplace-mediawiki/mediawiki-ext-comments/issues",
+    "source": "https://github.com/marketplace-mediawiki/mediawiki-ext-comments"
   },
   "require": {
     "composer/installers": "~1.0",
